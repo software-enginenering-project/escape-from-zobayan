@@ -44,7 +44,7 @@ java GameWin
 Include screenshots of the game:
 - ![Starting Screen](扫雷/imgs/464e667852a25e97258a08c48399e5f.png)
 - ![In-Game Action](扫雷/imgs/58a5d9cde7ca3de67ec2f560d5a5dff.png)
-- ![Victory Screen]([扫雷/imgs/b47e4d1e07cac38560e74c8d5e3eae5.png)
+- ![Victory Screen](扫雷/imgs/b47e4d1e07cac38560e74c8d5e3eae5.png)
 
 ## Contributing
 Contributions are welcome! To contribute:
