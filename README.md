@@ -1,26 +1,52 @@
-Escape-From-Zobayan
-
+Escape from Zobayan
 Project Overview
-This is a classic Minesweeper game implemented in Java. Players can choose from different difficulty levels to challenge themselves. The goal is to clear all the non-mined areas without detonating any mines.
+"Escape from Zobayan" is an enhanced Java-based implementation of the classic Minesweeper game with an adventurous twist. Set in the mysterious world of Zobayan, players must clear mines to escape from a perilous landscape. The game challenges players with multiple levels of difficulty to test their deductive reasoning and quick thinking.
 
 Technology Stack
 Programming Language: Java
-Graphical Interface: Java AWT and Swing libraries are used for drawing the interface and handling events.
+Graphical Interface: Utilizes Java's Abstract Window Toolkit (AWT) and Swing library for robust user interaction and graphical representation.
 Installation Guide
-To run this game, you need to have the Java Runtime Environment (JRE). 
+Get started with "Escape from Zobayan" by following these steps:
 
-Follow these steps:
+Prerequisites
+Ensure the Java Development Kit (JDK) is installed on your computer. If not, download it from Oracle's official website.
 
-Clone the repository to your local machine or download the source code.
-Compile the code using a Java compiler, for example, using the command line: javac GameWin.java.
-Run the compiled file, for example: java GameWin.
+Steps
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/your-username/escape-from-zobayan.git
+Navigate to the project directory:
+javascript
+Copy code
+cd escape-from-zobayan
+Compile the source code:
+Copy code
+javac GameWin.java
+Run the game:
+Copy code
+java GameWin
 Usage Instructions
-After launching the game, you can use the mouse to select different difficulty levels to start the game. During the game, click with the left mouse button to open cells, and right-click to mark mines.
-
+Starting the Game: Launch the game from the executable or command line.
+Gameplay:
+Left-click on a tile to uncover what lies beneath.
+Right-click on a tile to mark it if you suspect there's a mine (danger).
+Difficulty Levels: Select from Easy, Medium, or Hard to adjust the challenge based on your skills.
 Features
-Supports multiple difficulty levels.
-Simple and user-friendly interface, easy to operate.
-Real-time display of game status, including remaining mines and a timer.
-Contact and Contribution Guide
-If you have any questions or would like to contribute to the code, please contact us through:
+Themed Gameplay: Immerse yourself in the Zobayan realm where each click can mean the difference between escape and peril.
+Multiple Difficulty Settings: Tailored challenges to suit beginners to advanced players.
+Timed Sessions: Enhance your quick decision-making skills under pressure with the timer feature.
+Leaderboard: Compete with other players by recording your top scores and fastest times.
+Screenshots
+Include screenshots of the game:
 
+Contributing
+Contributions are welcome! To contribute:
+
+Fork the repository.
+Create your feature branch (git checkout -b my-new-feature).
+Commit your changes (git commit -am 'Add some feature').
+Push to the branch (git push origin my-new-feature).
+Create a new Pull Request.
+Troubleshooting
+For common problems, refer to the FAQ section. For unresolved issues, submit an issue on GitHub.
