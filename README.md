@@ -42,9 +42,9 @@ java GameWin
 
 ## Screenshots
 Include screenshots of the game:
-- ![Starting Screen](path/to/starting_screen.png)
-- ![In-Game Action](path/to/in_game.png)
-- ![Victory Screen](path/to/victory_screen.png)
+- ![Starting Screen]([path/to/starting_screen.png](https://github.com/software-enginenering-project/escape-from-zobayan/blob/main/%E6%89%AB%E9%9B%B7/imgs/464e667852a25e97258a08c48399e5f.png))
+- ![In-Game Action]([path/to/in_game.png](https://github.com/software-enginenering-project/escape-from-zobayan/blob/main/%E6%89%AB%E9%9B%B7/imgs/58a5d9cde7ca3de67ec2f560d5a5dff.png))
+- ![Victory Screen]([path/to/victory_screen.png](https://github.com/software-enginenering-project/escape-from-zobayan/blob/main/%E6%89%AB%E9%9B%B7/imgs/b47e4d1e07cac38560e74c8d5e3eae5.png))
 
 ## Contributing
 Contributions are welcome! To contribute:
