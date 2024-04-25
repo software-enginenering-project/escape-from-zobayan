@@ -57,7 +57,8 @@ Contributions are welcome! To contribute:
 ## Troubleshooting
 For common problems, refer to the FAQ section. For unresolved issues, submit an issue on GitHub.
 
+## Demostration
+The demo for how to use this applicaiton is uploaded in youtube:https://youtu.be/Zosms0-UNgM
 ## Contact
 For further information or support, reach out via email at [p2211323@mpu.edu.mo] or check out our [GitHub repository](https://github.com/software-enginenering-project/escape-from-zobayan).
 
-you can also find the demostration on the youtube:https://youtu.be/Zosms0-UNgM
