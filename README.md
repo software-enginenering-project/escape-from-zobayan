@@ -47,11 +47,11 @@ Include screenshots of the game:
 - ![Victory Screen](扫雷/imgs/b47e4d1e07cac38560e74c8d5e3eae5.png)
 
 ## Project Member Contributions:
--P2211487 Tecca xiao : 
+-**P2211487 Tecca xiao:**
 Writing the read.me file, Establish the github project structure
--P2211323 Dean zhang :
+-**P2211323 Dean zhang:**
 Writing the code of project
--p2211565 Lucius Yu :
+-**p2211565 Lucius Yu:**
 help to finish the project, complete the demo and edit the video.
 
 
