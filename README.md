@@ -49,8 +49,10 @@ Include screenshots of the game:
 ## Project Member Contributions:
 -**P2211487 Tecca xiao:**
 Writing the read.me file, Establish the github project structure
+
 -**P2211323 Dean zhang:**
 Writing the code of project
+
 -**p2211565 Lucius Yu:**
 help to finish the project, complete the demo and edit the video.
 
