@@ -46,13 +46,14 @@ Include screenshots of the game:
 - ![In-Game Action](扫雷/imgs/58a5d9cde7ca3de67ec2f560d5a5dff.png)
 - ![Victory Screen](扫雷/imgs/b47e4d1e07cac38560e74c8d5e3eae5.png)
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b my-new-feature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin my-new-feature`).
-5. Create a new Pull Request.
+## Project Member Contributions:
+P2211487 Tecca xiao : 
+Writing the read.me file, Establish the github project structure
+P2211323 Dean zhang :
+Writing the code of project
+p2211565 Lucius Yu :
+help to finish the project, complete the demo and edit the video.
+
 
 ## Troubleshooting
 For common problems, refer to the FAQ section. For unresolved issues, submit an issue on GitHub.
